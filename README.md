@@ -86,8 +86,11 @@ The app will launch in your browser at http://localhost:8501.
 
 ## Usage
 **Upload your dataset:** Place your PDF files in the `./pdfs` directory.
+
 **Ask a question:** Input a question in the provided text field to compare how `Groq` and `Ollama` handle it.
+
 **View results:** The app will display the answers from both models and the time taken to process the question.
+
 **Performance Comparison:** A bar chart will show the time difference between the two models.
 
 
