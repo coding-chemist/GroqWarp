@@ -1,0 +1,11 @@
+faiss-cpu==1.10.0
+groq==0.18.0
+langchain-groq==0.2.5
+langchain-ollama==0.2.3
+PyPDF2==3.0.1
+langchain-google-genai==2.0.11
+langchain==0.3.20
+streamlit==1.43.1
+langchain_community==0.3.19
+python-dotenv==1.0.1
+pypdf==5.3.1
