@@ -104,9 +104,9 @@ GroqWarp is open-source software licensed under the MIT License. See the LICENSE
 ## Acknowledgements
 
 **Libraries Used:**
-Streamlit for the app interface.
-FAISS for document similarity search.
-Groq and Ollama for language model inference.
-Langchain for document processing and retrieval.
-Altair for data visualizations.
+- Streamlit for the app interface.
+- FAISS for document similarity search.
+- Groq and Ollama for language model inference.
+- Langchain for document processing and retrieval.
+- Altair for data visualizations.
 
