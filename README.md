@@ -5,7 +5,7 @@ GroqWarp is a Streamlit-based app designed to compare the performance of **RAG (
 
 ## Tech Stack
 
-![Streamlit](https://img.shields.io/badge/Streamlit-1.43.1-red?logo=streamlit)  ![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue?logo=pandas)  ![NumPy](https://img.shields.io/badge/NumPy-2.1.3-teal?logo=numpy)  ![Altair](https://img.shields.io/badge/Altair-4.2.2-orange?logo=python)  ![Groq](https://img.shields.io/badge/Groq-0.18.0-green?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.43.1-red?logo=streamlit)  ![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue?logo=pandas)  ![Altair](https://img.shields.io/badge/Altair-4.2.2-orange?logo=python)  ![Groq](https://img.shields.io/badge/Groq-0.18.0-green?logo=python)
 
 ## Features
 
